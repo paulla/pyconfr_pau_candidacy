@@ -50,7 +50,7 @@ Lieu
 
 + Un cadre agréable
  
- L'école est un bâtiment, moderne (BBC), avec un patio des plus agréables, aux "normes accessibilité handicap".
+ L'école est un bâtiment moderne (BBC), avec un patio des plus agréables, et respecte les "normes accessibilité handicap".
 
  .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
      :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
