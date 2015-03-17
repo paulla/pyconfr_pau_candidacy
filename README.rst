@@ -89,21 +89,25 @@ transports
 ++++++++++++
 
  + l'école se trouve à 1.3 km de l'autoroute  (sortie 10 Pau centre)
+   voir link carte Hôtels plus bas
 
  + à 10-15 minutes de l'Aéroport, (arrêt navette aéroprot à 100 mètres, 6 vols
    Pau/Paris (ORY et CDG) Vols depuis Lyon et Marseilles
 
   .. todo:: link horaires navette
 
- + ligne directe `gare`_ (20minutes) et centre ville (ligne `T2`_ arrêt Monge direction Centre Hospitalier) `horaires Idélis`_
+ + ligne directe `gare`_ (15 minutes) et centre ville (ligne `T2`_ arrêt Monge direction Centre Hospitalier) `horaires Idélis`_
    gare TGV (5h30 Paris)
 
 restauration
 +++++++++++++++
 
-3 restaurants, une caféteria, une crêperie, un "menphis café" et 2 fast-foods
+3 restaurants, une caféteria, une crêperie(gallerie commeciale E.Leclerc, non mentionné sur carte), un "menphis café" et 2 fast-foods
 dans un rayon de 400 mètres.
-.. todo:: carte
+
+ carte restaurants pour le midi ci-dessous:
+.. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/restos-pycon.png
+    :target: https://www.google.fr/maps/search/restaurants/@43.3172398,-0.3618601,17z/data=!4m5!2m4!3m3!1srestaurants!2sEISTI+-+%C3%89cole+Internationale+des+Sciences+du+Traitement+de+l'Information,+Boulevard+Lucien+Favre,+64000+Pau!3s0xd5648ec3d397e23:0x8bdce5136d880914
 
 hébergement
 +++++++++++++++
@@ -113,6 +117,7 @@ Tous types d'hôtel à proximité:
  Formule1, apprt hôtel, 2\*, Mercure etc, 3\* dans un rayonde 1.5 km max (10
  minutes à pied) dont 2 situés à 100 et 300 mètres
 
+ carte hôtels avec prix ci-dessous:
 .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/hotels-pycon.png/image_view_fullscreen
     :target: https://www.google.fr/maps/search/h%C3%B4tels/@43.3242179,-0.3634372,15z/data=!4m5!2m4!3m3!1zaMO0dGVscw!2sEISTI+-+%C3%89cole+Internationale+des+Sciences+du+Traitement+de+l%27Information,+Boulevard+Lucien+Favre,+64000+Pau!3s0xd5648ec3d397e23:0x8bdce5136d880914
 
@@ -134,3 +139,9 @@ Une Equipe locale dévouée:
 .. _T2: http://reseau-idelis.com/upload/plans/T2.pdf
 .. _`horaires Idélis`: http://www.reseau-idelis.com/745-Mes-itineraires.html
 .. _`E.I.S.T.I`: http://www.eisti.fr/
+
+Todo
+-------
+ 
+ + négocier partenariat avec bar pour AFpyro du samedi soir
+ + négocier partenariat avec restau pour le samedi soir
