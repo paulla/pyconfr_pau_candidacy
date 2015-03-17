@@ -10,7 +10,10 @@ Du Duck Typing au Duck Cooking il n' y a qu'un pas :D
 :: 
     
     Class SouthWestDuck(Pycon):
-        """If it's quake like a duck -> cooking , drinking"""
+        """If it's quake like a duck -> cooking, drinking.
+        
+        Welcome to South West France!
+        """
 
         def cook(self):
             yield 'foie-gras'
@@ -30,8 +33,8 @@ Du Duck Typing au Duck Cooking il n' y a qu'un pas :D
 Dates
 -------
 
-+ Confs: 24 et 25 octobre 2015
-+ Sprints: 26 et 27 
++ Confs: **24 et 25 octobre 2015**
++ Sprints: **26 et 27** 
 
 Lieu
 -------
