@@ -5,7 +5,7 @@ Pycon-fr 2015 à Pau ?
     
 Gastronomie
 ------------
-Du Duck Typing au Duck Cooking il n' y a qu'un pas :D
+Du Duck Typing au Duck Cooking il n'y a qu'un pas :D
 
 :: 
     
