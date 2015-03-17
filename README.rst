@@ -80,7 +80,7 @@ Emplacement
 
 Située en bord du Campus de l'Université :
 
-trasnports
+transports
 ++++++++++++
 
  + l'école se trouve à 1.3 km de l'autoroute  (sortie 10 Pau centre)
@@ -101,7 +101,7 @@ restauration
 3 restaurants, une caféteria, une crêperie, un "menphis café" et 2 fast-foods
 dans un rayon de 400 mètres.
 
-hébergeemnt
+hébergement
 +++++++++++++++
 
 Tous types d'hôtel à proximité:
