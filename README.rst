@@ -116,7 +116,7 @@ Tous types d'hôtel à proximité:
     :target: https://www.google.fr/maps/search/h%C3%B4tels/@43.3242179,-0.3634372,15z/data=!4m5!2m4!3m3!1zaMO0dGVscw!2sEISTI+-+%C3%89cole+Internationale+des+Sciences+du+Traitement+de+l%27Information,+Boulevard+Lucien+Favre,+64000+Pau!3s0xd5648ec3d397e23:0x8bdce5136d880914
 
 
-Une Equipe locale dévouvée:
+Une Equipe locale dévouée:
 -----------------------------
 
  + les afpystes locaux : cyp, jpcw, kasba, mika64, solevis, voileux
