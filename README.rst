@@ -9,7 +9,7 @@ Du Duck Typing au Duck Cooking il n'y a qu'un pas :D
 
 ::
 
-    Class SouthWestDuck(Pycon):
+    class SouthWestDuck(Pycon):
         """If it's quake like a duck -> cooking, drinking.
 
         Welcome to South West France!
