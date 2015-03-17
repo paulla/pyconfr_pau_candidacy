@@ -2,16 +2,16 @@
 Pycon-fr 2015 à Pau ?
 ========================
 
-    
+
 Gastronomie
 ------------
 Du Duck Typing au Duck Cooking il n'y a qu'un pas :D
 
-:: 
-    
+::
+
     Class SouthWestDuck(Pycon):
         """If it's quake like a duck -> cooking, drinking.
-        
+
         Welcome to South West France!
         """
 
@@ -34,23 +34,23 @@ Dates
 -------
 
 + Confs: **24 et 25 octobre 2015**
-+ Sprints: **26 et 27** 
++ Sprints: **26 et 27**
 
 Lieu
 -------
 
 E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
+.. todo:: url
 
++ Une équipe dirigeante impliquée
 
-+ Une équipe dirigeante impliquée 
- 
- La direction et l'équipe pédagogique réu de prépa candidature du 16 mars.
- 
+ La direction et l'équipe pédagogique lors de la réunion de préparation de la candidature du 16 mars.
+
 .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0694-embedded.jpg/
     :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0694-embedded.jpg/
 
 + Un cadre agréable
- 
+
  L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables, aux "normes accessibilité handicap".
 
  .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
@@ -58,22 +58,22 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
 
 + Salles à disposition
 
- + un amphi 200 places avec régie de captation vidéo(possibilité incrustaion), prises élec individuelle, il sera équipé de wifi.
+ + un amphi 200 places avec régie de captation vidéo(possibilité incrustaion), prises électriques individuelles, il sera équipé de wifi.
 
  + un amphi de 80 places avec prises élec et réseau individuelles
 
- + une troisième salle de 60 places avec vidéo-projecteur et prises élec et réseau individuelles
-   (pourra servir pour les sprints, si on veut les grouper en un seul lieu pour
+ + une troisième salle de 60 places avec vidéo-projecteur et prises électriques et réseau individuelles
+   (il pourra servir pour les sprints, si on veut les grouper en un seul lieu pour
    convivialité)
 
  + 2 salles de 40 places avec vidéo-projecteur et prises élec et réseau individuelles, pour ateliers du weekend et sprints
 
- Avec 3 salles, nous bénéficions d'une souplesse maxiamle en nombre de slots, durée et horaires
+ Avec 3 salles, nous bénéficions d'une souplesse maximale en nombre de slots, durée et horaires
 
- Un patio agréable pour un maximum de convivialité, équipé d'un comptoir pour l'inetndace petit-déj, dans lequel
- on pourra ajouter des tables hautes de bar, et autres tables.
+ Un patio agréable pour un maximum de convivialité, équipé d'un comptoir pour l'intendance petit-déj, dans lequel
+ on pourra ajouter des tables hautes de bar et autres tables.
 
- une salle à accès réservé(badge) svira de consigne à bagages.
+ une salle à accès réservé(badge) servira de consigne à bagages.
 
  Un exemple de salle pour atelier ou sprint dont nous disposerons (les amphis étant occupés lors des prises de vues)
 
@@ -85,6 +85,7 @@ Emplacement
 ------------
 
 Située en bord du Campus de l'Université :
+.. todo:: carte
 
 transports
 ++++++++++++
@@ -93,7 +94,7 @@ transports
 
  + à 10-15 minutes de l'Aéroport, (arrêt navette aéroprot à 100 mètres, 6 vols
    Pau/Paris (ORY et CDG) Vols depuis Lyon et Marseilles
-   
+
   .. todo:: link horaires navette
 
  + ligne directe gare (20minutes) et centre ville (ligne T2 direction Centre Hospitalier)
@@ -106,6 +107,7 @@ restauration
 
 3 restaurants, une caféteria, une crêperie, un "menphis café" et 2 fast-foods
 dans un rayon de 400 mètres.
+.. todo:: carte
 
 hébergement
 +++++++++++++++
@@ -128,7 +130,6 @@ Une Equipe locale dévouée:
 
   .. todo:: pic bénévoles PauLLA Pycon à prendre ce soir, lors de soirée CitizenFour
 
- + personnes formées aux premiers secours 
+ + personnes formées aux premiers secours
 
  + Implication via petits projets (affichage, arduino, raspi, time reminder) du fablab de Pau http://mips-lab.net
- 
