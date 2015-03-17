@@ -43,13 +43,15 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
  
  La direction et l'équipe pédagogique réu de prépa candidature du 16 mars.
  
- .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0694-embedded.jpg/
+.. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0694-embedded.jpg/
+    :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0694-embedded.jpg/
 
 + Un cadre agréable
  
  L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables.
 
 .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
+    :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
 
 + Salles à disposition
 
@@ -73,6 +75,7 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
  Un exemple de salle pour atelier ou sprint dont nous disposerons (les amphis étant occupés lors des prises de vues)
 
 .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0699-embedded.jpg
+    :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0699-embedded.jpg/
 
 
 Emplacement
