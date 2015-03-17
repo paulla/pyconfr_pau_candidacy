@@ -143,5 +143,5 @@ Une Equipe locale dévouée:
 Todo
 -------
  
- + négocier partenariat avec bar pour AFpyro du samedi soir
+ + négocier partenariat avec bar pour AFPyro du samedi soir
  + négocier partenariat avec restau pour le samedi soir
