@@ -48,7 +48,7 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
 
 + Un cadre agréable
  
- L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables.
+ L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables, aux "normes accessibilité handicap".
 
  .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
      :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
@@ -124,6 +124,8 @@ Une Equipe locale dévouée:
  + le lug local PauLLA http://www.paulla.asso.fr
 
   .. todo:: pic bénévoles PauLLA Pycon à prendre ce soir, lors de soirée CitizenFour
+
+ + personnes formées aux premiers secours 
 
  + Implication via petits projets (affichage, arduino, raspi, time reminder) du fablab de Pau http://mips-lab.net
  
