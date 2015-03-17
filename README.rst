@@ -88,7 +88,7 @@ Située en bord du Campus de l'Université :
 transports
 ++++++++++++
 
- + l'école se trouve à 1.3 km de l'autoroute  (sortie 10 Pau centre)
+ + l'école dispose d'un parking privé et se trouve à 1.3 km de l'autoroute (sortie 10 Pau centre)
    voir link carte Hôtels plus bas
 
  + à 10-15 minutes de l'Aéroport, (arrêt navette aéroprot à 100 mètres, 6 vols
