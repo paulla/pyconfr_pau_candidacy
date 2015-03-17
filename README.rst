@@ -50,8 +50,8 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
  
  L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables.
 
-.. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
-    :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
+ .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
+     :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
 
 + Salles à disposition
 
@@ -74,8 +74,8 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
 
  Un exemple de salle pour atelier ou sprint dont nous disposerons (les amphis étant occupés lors des prises de vues)
 
-.. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0699-embedded.jpg
-    :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0699-embedded.jpg/
+ .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0699-embedded.jpg
+     :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0699-embedded.jpg/
 
 
 Emplacement
@@ -89,7 +89,7 @@ transports
  + l'école se trouve à 1.3 km de l'autoroute  (sortie 10 Pau centre)
 
  + à 10-15 minutes de l'Aéroport, (arrêt navette aéroprot à 100 mètres, 6 vols
-   Pau/Paris (ORY et CDG) 
+   Pau/Paris (ORY et CDG) Vols depuis Lyon et Marseilles
    
   .. todo:: link horaires navette
 
