@@ -114,7 +114,7 @@ hébergement
 
 Tous types d'hôtel à proximité:
 
- Formule1, apprt hôtel, 2\*, Mercure etc, 3\* dans un rayonde 1.5 km max (10
+ Formule1, appart hôtel, 2\*, Mercure etc, 3\* dans un rayonde 1.5 km max (10
  minutes à pied) dont 2 situés à 100 et 300 mètres
 
  carte hôtels avec prix ci-dessous:
