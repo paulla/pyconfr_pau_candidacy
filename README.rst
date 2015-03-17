@@ -92,7 +92,7 @@ transports
    voir link carte Hôtels plus bas
 
  + à 10-15 minutes de l'Aéroport, (arrêt navette aéroprot à 100 mètres, 6 vols
-   Pau/Paris (ORY et CDG) Vols depuis Lyon et Marseilles
+   Pau/Paris (ORY et CDG) Vols depuis Lyon et Marseille
 
   .. todo:: link horaires navette
 
