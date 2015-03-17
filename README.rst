@@ -51,14 +51,14 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
 
 + Un cadre agréable
  
- L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables, aux "normes accessibilité handicap".
+ L'école est un bâtiment, moderne (BBC), avec un patio des plus agréables, aux "normes accessibilité handicap".
 
  .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
      :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
 
 + Salles à disposition
 
- + un amphi 200 places avec régie de captation vidéo(possibilité incrustaion), prises élec individuelle, il sera équipé de wifi.
+ + un amphi 200 places avec régie de captation vidéo(possibilité incrustation), prises élec individuelles, il sera équipé de wifi.
 
  + un amphi de 80 places avec prises élec et réseau individuelles
 
@@ -96,10 +96,8 @@ transports
    
   .. todo:: link horaires navette
 
- + ligne directe gare (20minutes) et centre ville (ligne T2 direction Centre Hospitalier)
+ + ligne directe `gare`_ (20minutes) et centre ville (ligne `T2`_ arrêt Monge direction Centre Hospitalier) `horaires Idélis`_
    gare TGV (5h30 Paris)
-
-  .. todo:: link idelis T2, gare et link horaires
 
 restauration
 +++++++++++++++
@@ -132,3 +130,6 @@ Une Equipe locale dévouée:
 
  + Implication via petits projets (affichage, arduino, raspi, time reminder) du fablab de Pau http://mips-lab.net
  
+.. _gare: http://reseau-idelis.com/upload/plans/plans_2013/pole_Gare.pdf
+.. _T2: http://reseau-idelis.com/upload/plans/T2.pdf
+.. _`horaires Idélis`: http://www.reseau-idelis.com/745-Mes-itineraires.html
