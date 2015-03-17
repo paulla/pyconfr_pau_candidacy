@@ -55,7 +55,7 @@ E.I.S.T.I École Internationale des Sciences du Traitement de l'Information
 
 + Salles à disposition
 
- + un amphi 200 places avec régie de captation vidéo, prises éléc individuelle, il sera équipé de wifi.
+ + un amphi 200 places avec régie de captation vidéo, prises élec individuelle, il sera équipé de wifi.
 
  + un amphi de 80 places avec prises élec et réseau individuelles
 
