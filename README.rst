@@ -96,8 +96,8 @@ transports
 
   .. todo:: link horaires navette
 
- + ligne directe `gare`_ (15 minutes) et centre ville (ligne `T2`_ arrêt Monge direction Centre Hospitalier) `horaires Idélis`_
-   gare TGV (5h30 Paris)
+ + ligne directe `gare TGV`_ (15 minutes) et centre ville (ligne `T2`_ arrêt Monge direction Centre Hospitalier) `horaires Idélis`_
+   TGV (5h30 Paris)
 
 restauration
 +++++++++++++++
@@ -135,7 +135,7 @@ Une Equipe locale dévouée:
 
  + Implication via petits projets (affichage, arduino, raspi, time reminder) du fablab de Pau http://mips-lab.net
  
-.. _gare: http://reseau-idelis.com/upload/plans/plans_2013/pole_Gare.pdf
+.. _`gare TGV`: http://reseau-idelis.com/upload/plans/plans_2013/pole_Gare.pdf
 .. _T2: http://reseau-idelis.com/upload/plans/T2.pdf
 .. _`horaires Idélis`: http://www.reseau-idelis.com/745-Mes-itineraires.html
 .. _`E.I.S.T.I`: http://www.eisti.fr/
