@@ -57,7 +57,7 @@ Lieu
 
 + Salles à disposition
 
- + un amphi 200 places avec régie de captation vidéo(possibilité incrustaion), prises électriques individuelles, il sera équipé de wifi.
+ + un amphi 200 places avec régie de captation vidéo(possibilité incrustation), prises électriques individuelles, il sera équipé de wifi.
 
  + un amphi de 80 places avec prises élec et réseau individuelles
 
