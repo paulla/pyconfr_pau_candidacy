@@ -49,24 +49,15 @@ Lieu
     :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0694-embedded.jpg/
 
 + Un cadre agréable
-<<<<<<< HEAD
  
  L'école est un bâtiment, moderne (BBC), avec un patio des plus agréables, aux "normes accessibilité handicap".
-=======
-
- L'école est un bâtiment, moderne (HQE), avec un patio des plus agréables, aux "normes accessibilité handicap".
->>>>>>> f4c108e335bc84cb56a7eb6d175baca3a25f1dc3
 
  .. image:: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg
      :target: https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg/
 
 + Salles à disposition
 
-<<<<<<< HEAD
- + un amphi 200 places avec régie de captation vidéo(possibilité incrustation), prises élec individuelles, il sera équipé de wifi.
-=======
  + un amphi 200 places avec régie de captation vidéo(possibilité incrustaion), prises électriques individuelles, il sera équipé de wifi.
->>>>>>> f4c108e335bc84cb56a7eb6d175baca3a25f1dc3
 
  + un amphi de 80 places avec prises élec et réseau individuelles
 
@@ -93,7 +84,6 @@ Emplacement
 ------------
 
 Située en bord du Campus de l'Université :
-.. todo:: carte
 
 transports
 ++++++++++++
