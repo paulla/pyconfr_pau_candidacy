@@ -34,8 +34,8 @@ L'école est un bâtiment moderne (BBC), avec un patio des plus agréables, et r
 
 ![patio](https://www.paulla.asso.fr/galeries/eisti-pycon-fr-pau-2015/dsc-0702-embedded.jpg)
 
-Salles à disposition
-++++++++++++++++++++
+### Salles à disposition
+
 
  +  un amphi 200 places avec régie de captation vidéo(possibilité incrustation), prises électriques individuelles, il sera équipé de wifi.
  +  un amphi de 80 places avec prises élec et réseau individuelles
